@@ -24,5 +24,6 @@ cd ultralytics/yolo/v8/detect
 
 - Run the code with mentioned command below.
 ```
-!python predict.py model='best.pt' source='forestfire4.mp4'
+python predict.py model='best.pt' source='demo.mp4'
+
 ```

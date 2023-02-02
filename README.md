@@ -27,3 +27,16 @@ cd ultralytics/yolo/v8/detect
 python predict.py model='best.pt' source='demo.mp4'
 
 ```
+
+
+### RESULTS
+
+#### Fire Detection 
+![](./Orange Energic Modern Tips How to Find Ideas Youtube Thumbnail.png)
+
+
+
+### Watch the Complete Step by Step Explanation
+
+- Video Tutorial Link  [`YouTube Link`](https://www.youtube.com/@Pyresearch/videos)
+

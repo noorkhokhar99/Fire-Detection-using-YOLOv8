@@ -13,7 +13,7 @@ cd Fire-Detection-using-YOLOv8
 ```
 - Install the dependecies
 ```
-pip install -r requirements'
+pip install -r requirements.txt
 
 ```
 

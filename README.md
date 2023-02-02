@@ -32,7 +32,7 @@ python predict.py model='best.pt' source='demo.mp4'
 ### RESULTS
 
 #### Fire Detection 
-![](./Orange Energic Modern Tips How to Find Ideas Youtube Thumbnail.png)
+![](Orange Energic Modern Tips How to Find Ideas Youtube Thumbnail.png)
 
 
 

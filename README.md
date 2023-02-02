@@ -32,7 +32,9 @@ python predict.py model='best.pt' source='demo.mp4'
 ### RESULTS
 
 #### Fire Detection 
-![](Orange Energic Modern Tips How to Find Ideas Youtube Thumbnail.png)
+<p align="center">
+<img src="https://github.com/noorkhokhar99/Fire-Detection-using-YOLOv8/blob/main/Orange%20Energic%20Modern%20Tips%20How%20to%20Find%20Ideas%20Youtube%20Thumbnail.png">
+</p>
 
 
 
